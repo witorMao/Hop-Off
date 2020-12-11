@@ -1,7 +1,5 @@
 ![](https://img.itch.zone/aW1nLzQzMjk4MzAucG5n/original/77uBBU.png)
 
-A team-developed game to the subject SSC0770 - Introduction to eletronic games development.
-
 On this game, you'll be playing as *Cenoura*, a genetically modified rabbit.  Your goal is to escape from the laboratory, but to do so, you'll need to solve some puzzles... Are you ready for freedom?
 
 Access this game by visiting our [itch.io page](https://pau1o-hs.itch.io/hop-off).
