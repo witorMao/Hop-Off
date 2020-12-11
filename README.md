@@ -1,3 +1,29 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d4591b16db6a6ff06f8061adebf58eea0de7e8018910b26591d44bc5ec04cd67
-size 459
+A team-developed game to the subject SSC0770 - Introduction to eletronic games development.
+
+CREDITS 
+
+Leader/Programmer: [Paulo da Silva](https://github.com/pau1o-hs)
+
+Level Design: [Gustavo Mastrobuono Sound](https://github.com/gumastro)
+
+Effects: [Witor de Oliveira](https://github.com/witorMao) 
+
+UI Images: Bruno del Monde 
+
+Soundtrack: [Daniel da Silva](https://www.youtube.com/channel/UCeblCxWPb-QXmb4XrxNV1bQ) 
+
+DISCLAIMER 
+
+Free assets were used from the following websites:
+
+[Unity Store] 
+
+[Mixamo ]
+
+[Freesound.org ](https://freesonund.org)
+
+[Creative Fabrica (Dafont) ]()
+
+More information at: 
+
+Hop Off -> Main Menu -> Credits
