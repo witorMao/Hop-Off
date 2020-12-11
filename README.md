@@ -15,7 +15,7 @@ Download this folder and run **Hop Off.exe**. Remember to change game graphics q
 
 - **Sound Effects**: [Witor de Oliveira](https://github.com/witorMao);
 
-- **UI Images**: Bruno del Monde;
+- **UI Images**: [Bruno del Monde](https://github.com/brudel);
 
 - **Soundtrack**: [Daniel da Silva](https://www.youtube.com/channel/UCeblCxWPb-QXmb4XrxNV1bQ);
 
