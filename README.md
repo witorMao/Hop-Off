@@ -1,10 +1,12 @@
 A team-developed game to the subject SSC0770 - Introduction to eletronic games development.
 
+Link to itch.io [page](https://pau1o-hs.itch.io/hop-off).
+
 CREDITS 
 
 Leader/Programmer: [Paulo da Silva](https://github.com/pau1o-hs)
 
-Level Design: [Gustavo Mastrobuono Sound](https://github.com/gumastro)
+Level Design: [Gustavo Mastrobuono](https://github.com/gumastro)
 
 Effects: [Witor de Oliveira](https://github.com/witorMao) 
 
@@ -16,13 +18,13 @@ DISCLAIMER
 
 Free assets were used from the following websites:
 
-[Unity Store] 
+[Unity Store](https://assetstore.unity.com/)
 
-[Mixamo ]
+[Mixamo](https://www.mixamo.com/)
 
-[Freesound.org ](https://freesonund.org)
+[Freesound.org](https://freesonund.org)
 
-[Creative Fabrica (Dafont) ]()
+[Creative Fabrica (Dafont)](https://www.dafont.com/creative-fabrica.d6785)
 
 More information at: 
 
